@@ -1,0 +1,7 @@
+practicing using powershell to create and open txt files in Notepad. 
+
+to create a new empty txt file, type "ni filename.txt" and press enter
+	this creates a new file named "filename" 
+
+to open a file, type "start filename.txt" and press enter
+	this opens the filename in notepad
